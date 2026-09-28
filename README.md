@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- Banner Corrigido: Distanciamento ajustado entre Nome e Descrição -->
+  <!-- Banner -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=//%20Guilherme_S_Guimaraes%20//&fontSize=50&fontColor=00FF00&animation=twinkling&fontAlignY=40&desc=Acesso%20Concedido&descAlignY=75" width="100%" />
 
   <br><br>
@@ -35,8 +35,8 @@
 
 ### 🚀 `> ./projetos_destaque.bat`
 <div align="center">
-  <a href="https://github.com/GuilhermeSantosGuimaraes/cyberDeck">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeSantosGuimaraes&repo=cyberDeck&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00" alt="cyberDeck" />
+  <a href="https://github.com/GuilhermeSantosGuimaraes/cyberDeck" target="_blank">
+    <img src="https://img.shields.io/badge/📦_cyberDeck_--_Repositório_Principal-000000?style=for-the-badge&logo=github&logoColor=00FF00&color=000000" alt="cyberDeck" />
   </a>
 </div>
 
@@ -52,22 +52,17 @@
 </div>
 <br>
 
-<!-- Stats & Top Languages -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeSantosGuimaraes&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSantosGuimaraes&layout=compact&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00" alt="Top Languages" />
-</div>
-<br>
-
-<!-- Streak -->
+<!-- Streak Stats (Estável) -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeSantosGuimaraes&theme=dark&background=000000&border=00FF00&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&currStreakLabel=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=00FF00&hide_border=true" alt="GitHub Streak" />
 </div>
 <br>
 
-<!-- Activity Graph -->
+<!-- Métricas em Badges Estilizadas Cyberpunk -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeSantosGuimaraes&bg_color=000000&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true&custom_title=Atividade_no_Sistema" alt="Activity Graph" />
+  <img src="https://img.shields.io/badge/STATUS_DO_SISTEMA-ONLINE-000000?style=for-the-badge&logo=gnome&logoColor=00FF00&color=000000" alt="Status" />
+  <img src="https://img.shields.io/badge/NÍVEL_DE_ACESSO-ROOT-000000?style=for-the-badge&logo=linux&logoColor=00FF00&color=000000" alt="Nível" />
+  <img src="https://img.shields.io/badge/MODO-INSTRUÇÃO_ATIVA-000000?style=for-the-badge&logo=terminal&logoColor=00FF00&color=000000" alt="Modo" />
 </div>
 
 ---
@@ -86,7 +81,7 @@
 ### 🌐 `> ./conexoes_de_rede.link`
 <div align="center">
   <a href="https://www.linkedin.com/in/guilherme-guimaraes-9896b9140" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00&color=000000" alt="LinkedIn">
   </a>
 </div>
 
