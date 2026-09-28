@@ -44,25 +44,18 @@
 
 ### 📊 `> ./system_stats.log`
 
-<!-- Trophies -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=GuilhermeSantosGuimaraes&theme=matrix&margin-w=15&margin-h=15&no-frame=true&column=6" alt="Trophies" />
-  </a>
-</div>
-<br>
-
 <!-- Streak Stats (Estável) -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeSantosGuimaraes&theme=dark&background=000000&border=00FF00&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&currStreakLabel=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=00FF00&hide_border=true" alt="GitHub Streak" />
 </div>
 <br>
 
-<!-- Métricas em Badges Estilizadas Cyberpunk -->
+<!-- Métricas de Sistema / Badges Estilizadas Cyberpunk -->
 <div align="center">
-  <img src="https://img.shields.io/badge/STATUS_DO_SISTEMA-ONLINE-000000?style=for-the-badge&logo=gnome&logoColor=00FF00&color=000000" alt="Status" />
-  <img src="https://img.shields.io/badge/NÍVEL_DE_ACESSO-ROOT-000000?style=for-the-badge&logo=linux&logoColor=00FF00&color=000000" alt="Nível" />
-  <img src="https://img.shields.io/badge/MODO-INSTRUÇÃO_ATIVA-000000?style=for-the-badge&logo=terminal&logoColor=00FF00&color=000000" alt="Modo" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-000000?style=for-the-badge&logo=gnome&logoColor=00FF00&color=000000" alt="Status" />
+  <img src="https://img.shields.io/badge/SECURITY-ROOT_ACCESS-000000?style=for-the-badge&logo=linux&logoColor=00FF00&color=000000" alt="Nível" />
+  <img src="https://img.shields.io/badge/MODE-INSTRUCTION_ACTIVE-000000?style=for-the-badge&logo=terminal&logoColor=00FF00&color=000000" alt="Modo" />
+  <img src="https://img.shields.io/badge/PROTOCOL-SECURE_SSH-000000?style=for-the-badge&logo=letsencrypt&logoColor=00FF00&color=000000" alt="Protocolo" />
 </div>
 
 ---
