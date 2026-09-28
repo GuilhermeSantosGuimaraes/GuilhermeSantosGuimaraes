@@ -1,111 +1,20 @@
 <div align="center">
+  <!-- Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=//%20Guilherme_S_Guimaraes%20//&fontSize=50&fontColor=00FF00&animation=twinkling&fontAlignY=45&desc=Acesso%20Concedido&descAlignY=70&descAlign=62" width="100%" />
 
-  <!-- Banner Cyberpunk Customizado -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Guilherme%20S.%20Guimarães&fontSize=38&fontColor=00FF66&animation=twinkling&desc=Instrutor%20de%20Pensamento%20Computacional&descSize=18&descAlignY=70&descAlign=50" width="100%" alt="Header Banner"/>
-
-  <br/>
+  <br><br>
 
   <!-- Typing Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=System.init();;Instrutor+de+Pensamento+Computacional;;Decodificando+L%C3%B3gica+%2B+Tecnologia;;Desenvolvedor+Python+%7C+JS+%7C+Web" alt="Typing Animation" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Redes Sociais -->
-  <a href="https://www.linkedin.com/in/guilherme-guimaraes-9896b9140" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF66&borderColor=00FF66" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/GuilhermeSantosGuimaraes" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF66&borderColor=00FF66" alt="GitHub" />
-  </a>
-
-</div>
-
-<br/>
-
----
-
-### 🟢 `> whoami`
-
-```sys
-[IDENTITY]: Guilherme Santos Guimarães
-[ROLE]    : Instrutor de Pensamento Computacional
-[STATUS]  : Ensinando lógica, resolução de problemas e arquitetura de código.
-```
-
-- 🎓 Atuo na formação de mentes analíticas através do **Pensamento Computacional**.
-- 🛠️ Exploro soluções web e scripts focados em usabilidade e performance.
-- ⚡ Interesses principais: Programação, interfaces inteligentes e arquitetura visual hacker/cyberpunk.
-
----
-
-### ⚡ `> tech_stack.exe`
-
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF66" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF66" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF66" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF66" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF66" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF66" alt="GitHub" />
-</div>
-
----
-
-### 🚀 `> featured_projects.sh`
-
-<div align="center">
-  <a href="https://github.com/GuilhermeSantosGuimaraes/cyberDeck">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeSantosGuimaraes&repo=cyberDeck&theme=matrix&title_color=00FF66&icon_color=00FF66&text_color=00FF66&bg_color=000000&border_color=00FF66" alt="cyberDeck Pin" />
+  <a href="https://github.com/GuilhermeSantosGuimaraes">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E_Instrutor+de+Pensamento+Computacional;%3E_Transformando+logica+em+codigo;%3E_Iniciando+protocolos...;%3E_Conectado+ao+CyberDeck..." alt="Typing SVG" />
   </a>
 </div>
 
----
+<br>
 
-### 🏆 `> trophies.sys`
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=GuilhermeSantosGuimaraes&theme=matrix&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" />
-  </a>
-</div>
-
----
-
-### 📊 `> system_telemetry.log`
-
-<div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GuilhermeSantosGuimaraes&show_icons=true&theme=matrix&title_color=00FF66&text_color=00FF66&icon_color=00FF66&bg_color=000000&border_color=00FF66" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSantosGuimaraes&layout=compact&theme=matrix&title_color=00FF66&text_color=00FF66&icon_color=00FF66&bg_color=000000&border_color=00FF66" alt="Top Languages" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeSantosGuimaraes&theme=matrix&background=000000&border=00FF66&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakNum=00FF66&sidenums=00FF66&sidekeys=00FF66&dates=00FF66" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeSantosGuimaraes&theme=github-dark&bg_color=000000&color=00FF66&line=00FF66&point=00FF66&area=true&hide_border=false" alt="Activity Graph" />
-</div>
-
----
-
-### 🐍 `> snake_contribution.gif`
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/GuilhermeSantosGuimaraes/GuilhermeSantosGuimaraes/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Animation" width="100%" />
-</div>
-
----
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer&text=EOF%20-%20System.exit(0)&fontSize=16&fontColor=00FF66" width="100%" alt="Footer" />
-</div>
+### 🕵️‍♂️ `> ./about_me.sh`
+```text
+[STATUS]: Online
+[CARGO]: Instrutor de Pensamento Computacional
+[MISSÃO]: Desmistificar a lógica de programação e ensinar mentes a arquitetar o futuro através do código.
+[BASE_DE_DADOS]: Transformo problemas complexos em algoritmos otimizados.
