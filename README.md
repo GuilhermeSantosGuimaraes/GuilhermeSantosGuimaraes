@@ -12,7 +12,7 @@
 
 <br>
 
-### 🕵️‍♂️ `> ./about_me.sh`
+### 🕵️‍♂️ `> ./sobre_mim.sh`
 
 > **[STATUS]:** Online  
 > **[CARGO]:** Instrutor de Pensamento Computacional  
@@ -44,18 +44,24 @@
 
 ### 📊 `> ./system_stats.log`
 
-<!-- Streak Stats (Estável) -->
+<!-- Trophies -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeSantosGuimaraes&theme=dark&background=000000&border=00FF00&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&currStreakLabel=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=00FF00&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GuilhermeSantosGuimaraes&theme=matrix&margin-w=15&margin-h=15&no-frame=true&column=6" alt="Troféus do GitHub" />
 </div>
 <br>
 
-<!-- Métricas de Sistema / Badges Estilizadas Cyberpunk -->
+<!-- Streak Stats -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeSantosGuimaraes&theme=dark&background=000000&border=00FF00&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&currStreakLabel=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=00FF00&hide_border=true" alt="Sequência no GitHub" />
+</div>
+<br>
+
+<!-- Badges de Sistema -->
 <div align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-000000?style=for-the-badge&logo=gnome&logoColor=00FF00&color=000000" alt="Status" />
-  <img src="https://img.shields.io/badge/SECURITY-ROOT_ACCESS-000000?style=for-the-badge&logo=linux&logoColor=00FF00&color=000000" alt="Nível" />
-  <img src="https://img.shields.io/badge/MODE-INSTRUCTION_ACTIVE-000000?style=for-the-badge&logo=terminal&logoColor=00FF00&color=000000" alt="Modo" />
-  <img src="https://img.shields.io/badge/PROTOCOL-SECURE_SSH-000000?style=for-the-badge&logo=letsencrypt&logoColor=00FF00&color=000000" alt="Protocolo" />
+  <img src="https://img.shields.io/badge/SEGURANÇA-ACESSO_ROOT-000000?style=for-the-badge&logo=linux&logoColor=00FF00&color=000000" alt="Segurança" />
+  <img src="https://img.shields.io/badge/MODO-INSTRUÇÃO_ATIVA-000000?style=for-the-badge&logo=terminal&logoColor=00FF00&color=000000" alt="Modo" />
+  <img src="https://img.shields.io/badge/PROTOCOLO-SSH_SEGURO-000000?style=for-the-badge&logo=letsencrypt&logoColor=00FF00&color=000000" alt="Protocolo" />
 </div>
 
 ---
@@ -65,7 +71,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuilhermeSantosGuimaraes/GuilhermeSantosGuimaraes/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuilhermeSantosGuimaraes/GuilhermeSantosGuimaraes/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/GuilhermeSantosGuimaraes/GuilhermeSantosGuimaraes/output/github-contribution-grid-snake.svg">
+    <img alt="Gráfico de Contribuição Snake" src="https://raw.githubusercontent.com/GuilhermeSantosGuimaraes/GuilhermeSantosGuimaraes/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -82,6 +88,6 @@
 
 <div align="center">
   <p style="color: #00FF00; font-family: 'Courier New', Courier, monospace;">
-    <code>< // > root@guilherme:~# Keep hacking the system. _</code>
+    <code>< // > root@guilherme:~# Continue hackeando o sistema. _</code>
   </p>
 </div>
