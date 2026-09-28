@@ -44,9 +44,13 @@
 
 ### 📊 `> ./system_stats.log`
 
-<!-- Trophies -->
+### 📊 `> ./system_stats.log`
+
+<!-- Conquistas / Trophies em Badges Cyberpunk -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GuilhermeSantosGuimaraes&theme=matrix&margin-w=15&margin-h=15&no-frame=true&column=6" alt="Troféus do GitHub" />
+  <img src="https://img.shields.io/badge/TROFÉU-RANK_S_--_CORE_DEV-000000?style=for-the-badge&logo=trophy&logoColor=00FF00&color=000000" alt="Troféu Core Dev" />
+  <img src="https://img.shields.io/badge/CONQUISTA-MESTRE_DA_LÓGICA-000000?style=for-the-badge&logo=codewars&logoColor=00FF00&color=000000" alt="Mestre da Lógica" />
+  <img src="https://img.shields.io/badge/BADGE-ARQUITETURA_DE_SOFTWARE-000000?style=for-the-badge&logo=databricks&logoColor=00FF00&color=000000" alt="Arquitetura" />
 </div>
 <br>
 
