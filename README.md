@@ -44,8 +44,6 @@
 
 ### 📊 `> ./system_stats.log`
 
-### 📊 `> ./system_stats.log`
-
 <!-- Conquistas / Trophies em Badges Cyberpunk -->
 <div align="center">
   <img src="https://img.shields.io/badge/TROFÉU-RANK_S_--_CORE_DEV-000000?style=for-the-badge&logo=trophy&logoColor=00FF00&color=000000" alt="Troféu Core Dev" />
